@@ -1,3 +1,16 @@
+# Tutorial 10 (YEWCHAT)
+Nama: Vina Myrnauli Abigail Siallagan<br>
+NPM: 2206825776<br>
+Kelas: Pemrograman Lanjut - A<br>
+
+---
+## REFLEKSI 3
+
+###### 3.1. Original code.
+![](images/1.png) 
+![](images/2.png)  
+
+
 # YewChat 💬
 
 > Source code for [Let’s Build a Websocket Chat Project With Rust and Yew 0.19 🦀](https://fsjohnny.medium.com/lets-build-a-websockets-project-with-rust-and-yew-0-19-60720367399f)
