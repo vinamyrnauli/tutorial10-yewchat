@@ -1,4 +1,4 @@
-# Tutorial 10 (YEWCHAT)
+# Tutorial 10 (YewChat)
 Nama: Vina Myrnauli Abigail Siallagan<br>
 NPM: 2206825776<br>
 Kelas: Pemrograman Lanjut - A<br>
@@ -9,7 +9,13 @@ Kelas: Pemrograman Lanjut - A<br>
 ###### 3.1. Original code.
 ![](images/1.png) 
 ![](images/2.png)  
+<br>
 
+###### 3.2. Add some creativities to the webclient.
+![](images/3.png)  
+* Saya membuat tema kustom cokelat-pink.
+
+<hr>
 
 # YewChat 💬
 
